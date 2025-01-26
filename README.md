@@ -1,3 +1,8 @@
-# Animaniac Repository
+# Repositories 
+- Animaniac
+- tvOne
 
-https://oldmanjax.github.io/
+URL for Kodi File Manager: https://oldmanjax.github.io/
+
+
+
